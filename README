@@ -1,0 +1,1 @@
+This is a webapp built with React. User may input their desired ingredients & the app will make an api call to Hugging Face and generate a full recipe!
