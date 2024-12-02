@@ -26,6 +26,11 @@ header > h1 {
     font-weight: 400;
 }
 
+.input_instruction {
+    text-align: center;
+    color: grey;
+}
+
 main {
     padding: 30px 30px 10px;
 }
